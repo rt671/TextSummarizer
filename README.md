@@ -1,0 +1,2 @@
+# TextSummarizer
+Extractive Method
